@@ -49,7 +49,8 @@ Setting html to font-size 62.5% automatically sizes all font to 16px and allows 
 Preprocessing is a program used to not only code cleaner and more efficiently but it expands on CSS allowing developers to implement things they normally can't do with vanilla CSS.
 
 5. What is your favorite concept in preprocessing? What is the concept that gives you the most trouble?
-MY favorite concept in preprocessing are variables. What I'm having a bit of trouble with is parametrics. Maybe 'trouble' isn't the right word but it takes me a little longer to think through.
+
+My favorite concept in preprocessing are variables. What I'm having a bit of trouble with are parametrics. Maybe 'trouble' isn't the right word but it takes me a little longer to think it through before utilizing it.
 
 You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section *will* prevent you from passing this challenge.
 
