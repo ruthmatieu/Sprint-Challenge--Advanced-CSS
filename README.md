@@ -42,11 +42,11 @@ Mobile first means building a website via mobile view and expanding to larger sc
 
 3. What does `font-size: 62.5%` in the `html` tag do for us when using `rem` units?
 
-Setting html to font-size 62.5% automaticallt sizes all font to 16px and allows us to easily convert to rem while utilizing less math to get our measurements.
+Setting html to font-size 62.5% automatically sizes all font to 16px and allows us to easily convert to rem while utilizing less math to get our measurements.
 
 4. How would you describe preprocessing to someone new to CSS?
 
-Preprocessing is used to code cleaner and more efficiently.
+Preprocessing is a program used to not only code cleaner and more efficiently but it expands on CSS allowing developers to implement things they normally can't do with vanilla CSS.
 
 5. What is your favorite concept in preprocessing? What is the concept that gives you the most trouble?
 MY favorite concept in preprocessing are variables. What I'm having a bit of trouble with is parametrics. Maybe 'trouble' isn't the right word but it takes me a little longer to think through.
